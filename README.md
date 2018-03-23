@@ -9,7 +9,7 @@ author: michaelhauss
 In this sample, we demonstrate the basics of how to maintain backups of virtual machine disks using snapshots. You can use this methodology when you choose not to use Azure Backup and Recovery Service, and wish to create a custom backup strategy for your virtual machine disks.
 
 If you don't have a Microsoft Azure subscription you can
-get a FREE trial account [here](http://go.microsoft.com/fwlink/?LinkId=330212)
+get a FREE trial account [here](http://go.microsoft.com/fwlink/?LinkId=330212).
 
 ## Running this sample
 
