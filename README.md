@@ -31,6 +31,6 @@ To run the sample using the Storage Service
 
 ## More information
 - [Protecting Your Blobs Against Application Errors](https://blogs.msdn.microsoft.com/windowsazurestorage/2010/04/29/protecting-your-blobs-against-application-errors/)
-- [Back up Azure Virtual Machines](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-vms/)
-- [Back up Azure Virtual Machine Disks with Incremental Snapshots](https://acom-sandbox.azurewebsites.net/en-us/documentation/articles/storage-incremental-snapshots/)
-- [Storage Emulator](https://azure.microsoft.com/en-us/documentation/articles/storage-use-emulator/)
+- [Back up Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-first-look-arm)
+- [Back up Azure Virtual Machine Disks with Incremental Snapshots](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/incremental-snapshots)
+- [Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator)
